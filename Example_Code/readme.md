@@ -1,0 +1,1 @@
+The code in this folder is an example and template for certain classes within an application which may make use of the EDI package. Some functions may be useable as is while others require tweaks and/or implementation.
